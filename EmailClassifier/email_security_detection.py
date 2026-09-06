@@ -77,6 +77,6 @@ while True:
     probability_malicious = probabilities[1]
 
     if prediction[0] == 1:
-        print(f"這是一封惡意郵件，惡意機率 : {probability_malicious:.2%}")
+        print(f"這是惡意郵件，惡意機率 : {probability_malicious:.2%}")
     else:
-        print(f"這是一封正常郵件，正常機率 : {probability_normal:.2%}")
+        print(f"這是正常郵件，正常機率 : {probability_normal:.2%}")
