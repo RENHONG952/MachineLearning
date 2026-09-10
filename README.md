@@ -1,2 +1,2 @@
 # 🤖 結合人工智慧開發的應用
-## 📧 EmailClassifier 惡意郵件邏輯斯迴歸 ( Logistic Regression ) 分類器
+## 📧 惡意郵件邏輯斯迴歸 ( Logistic Regression ) 分類器
